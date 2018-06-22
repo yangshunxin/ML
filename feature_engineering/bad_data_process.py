@@ -8,6 +8,9 @@ from sklearn.ensemble import BaggingRegressor
 mpl.rcParams['font.sans-serif'] = [u'simHei']
 mpl.rcParams['axes.unicode_minus'] = False
 
+'''
+get data from  https://pan.baidu.com/s/1DSyL5bVm9Q_5Ut8VhIxj7g   an feature_engineering/datas 
+'''
 ## 文件存储路径
 path1 = "./datas/C0904.csv"
 path2 = "./datas/C0911.csv"
